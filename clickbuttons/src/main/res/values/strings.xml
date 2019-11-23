@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickButtons</string>
+    <string name="title_activity_ok">OkActivity</string>
+    <string name="title_activity_cancel">CancelActivity</string>
+</resources>
